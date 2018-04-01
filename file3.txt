@@ -1,3 +1,5 @@
 new file 3 in master branch
 
 stashed changes
+
+changes after the latest pull
